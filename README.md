@@ -1,5 +1,5 @@
 ### [ Personal bio construction in progress ]
-### Siyuan Wang
+# Siyuan Wang
 ---
 
 <!--
