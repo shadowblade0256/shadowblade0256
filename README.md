@@ -1,6 +1,11 @@
 ### [ Personal bio construction in progress ]
-# Siyuan Wang
----
+
+<h1 align="center">Siyuan Wang</h1>
+
+I'm a final-year undergraduate student in School of Computer and Informations of Anhui Normal University, currently majoring in Software Engineering. I
+
+## Projects & Research
+*** In Progress ***
 
 <!--
 **shadowblade0256/shadowblade0256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
