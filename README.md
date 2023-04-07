@@ -2,7 +2,7 @@
 
 <h1 align="center">Siyuan Wang</h1>
 
-I'm a final-year undergraduate student in School of Computer and Informations of Anhui Normal University, currently majoring in Software Engineering. I
+I'm a final-year undergraduate student in School of Computer and Informations of Anhui Normal University, majoring in Software Engineering. Currently, I am working on federated learning (FL), privacy-preserving machine learning and natural language processing (NLP).
 
 ## Projects & Research
 *** In Progress ***
