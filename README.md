@@ -4,8 +4,12 @@
 
 I'm a final-year undergraduate student in School of Computer and Informations of Anhui Normal University, majoring in Software Engineering. Currently, I am working on federated learning (FL), privacy-preserving machine learning and natural language processing (NLP).
 
-## Projects & Research
-*** In Progress ***
+## ⚡ Achievements
+** Working in progress **
+
+## 🔭 Projects & Research
+- A differential privacy method using genetic algorithm, based on federated learning
+- A causal feature selection method in NLP
 
 <!--
 **shadowblade0256/shadowblade0256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
