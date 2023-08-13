@@ -7,7 +7,7 @@ I'm a final-year undergraduate student in School of Computer and Informations of
 ## ⚡ Achievements
 - 2015 National Olympiad in Informatics in Provinces (NOIP) - 2nd Prize
 - 11th "Lanqiao Cup" National Programming Contest C/C++ College Group B Final (Nov 2020) - 2nd Prize
-- 2021 AHNU Practical Training Project Team "Wangjiaba Elementary School VR Touring System" - 1st Team Prize & Outstanding Individual Prize
+- 2021 AHNU School Project Team "Wangjiaba Elementary School VR Touring System" - 1st Team Prize & Outstanding Individual Prize
 - 2021 AHNU Scholarship for Outstanding Students in Technical Activities
 - 2022 Anhui Collegiate Programming Contest (AHCPC) Undergraduate Group - 3rd Prize
 
